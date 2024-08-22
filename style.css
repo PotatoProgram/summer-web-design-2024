@@ -7,3 +7,7 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
+
+table {
+    background-color: rgb(202, 202, 202);
+}
