@@ -11,3 +11,10 @@ p {
 table {
     background-color: rgb(202, 202, 202);
 }
+
+table {
+    td {
+        padding: 10px;
+    }
+
+}
